@@ -33,6 +33,7 @@ header{
     justify-content: center;
     align-items: center;
     width: 950px;
+    margin-left: 80px;
 }
 .article-img img{
     width: 280px;
@@ -81,7 +82,7 @@ section h3{
     height: 200px;
     background-size: cover;
     background-position: center;
-    margin: 100px;
+    margin: 80px 150px;
     border-radius: 10px;
     position: relative;
 }
